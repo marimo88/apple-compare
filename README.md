@@ -27,4 +27,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 npm install vue-chartjs chart.js --save
 ```
+### vue-cliをインストール
+npm install -g @vue/cli-init
 
+### vue-chartjsをインストール
+npm install -g firebase-tools
+
+### iPhone, iPad, and iPod Benchmarks
+https://browser.geekbench.com/ios-benchmarks
