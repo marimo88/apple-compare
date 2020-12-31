@@ -33,8 +33,5 @@ npm install -g @vue/cli-init
 ### vue-chartjsをインストール
 npm install -g firebase-tools
 
-### Firebaseにデプロイ
-firebase deploy
-
-## iPhone, iPad, and iPod Benchmarks
+### iPhone, iPad, and iPod Benchmarks
 https://browser.geekbench.com/ios-benchmarks

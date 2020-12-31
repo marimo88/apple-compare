@@ -4,7 +4,7 @@ export default {
   extends: HorizontalBar,
   mounted () {
     this.renderChart({
-      labels: ['A14 (iPhone12, iPad Air 4)', 
+      labels: ['A14 (iPad Air 4)', 
       'A13 (iPhone 11, iPhone SE 2)', 
       'A12Z (iPad Pro 4)', 
       'A12X (iPad Pro 3)', 
@@ -17,7 +17,7 @@ export default {
         {
           label: 'Data One',
           backgroundColor: '#f87979',
-          data: [4198, 3300, 4634, 4605, 2511, 1913, 1285, 1181, 969]
+          data: [0, 3300, 4634, 4605, 2511, 1913, 1285, 1181, 969]
         }
       ]
     },
