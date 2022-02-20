@@ -1,5 +1,8 @@
 # vue-test
 
+## Environment
+
+- Firebase 10.2.1
 ## Project setup
 ```
 npm install
@@ -19,6 +22,14 @@ npm run build
 ```
 npm run lint
 ```
+
+### Deploy
+```
+firebase deploy
+```
+
+デプロイに失敗する場合はログアウトして再度ログインする
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
